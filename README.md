@@ -44,14 +44,15 @@ flowchart TB
   C --> F[Bus Routes]
   D --> G[CR/WR Websites]
   D --> H[BEST Undertaking]
-🌐 Data Sources
+## 🌐 Data Sources
 🏛️ Official APIs: DTC, BEST, BMTC, MTC (where available)
 
 👥 Crowd-sourced: GPS, SMS, WhatsApp bots
 
 📡 Alternative: Twitter, Drivers/Conductors, IoT GPS devices
 
-🚀 Roadmap
+--
+## 🚀 Roadmap
 Phase 1 (MVP - 3–6 Months)
 Real-time BEST bus tracking in Mumbai
 
@@ -72,21 +73,17 @@ AI-based ETA prediction
 Ticketing system & Smart City API
 
 B2B dashboards and analytics
-
-🤝 Contributing
+--
+## 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-📄 License
+## 📄 License
 MIT License © 2025 Deepak Singh
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Indian Railway APIs & CR/WR official data
-
 BEST Undertaking
-
 Volunteers contributing real-time updates
 
-yaml
-Copy
-Edit
+
 
