@@ -44,3 +44,33 @@ flowchart TB
   C --> F[Bus Routes]
   D --> G[CR/WR Websites]
   D --> H[BEST Undertaking]
+🌐 Data Sources
+🏛️ Official APIs: DTC, BEST, BMTC, MTC (where available)
+
+👥 Crowd-sourced: GPS, SMS, WhatsApp bots
+
+📡 Alternative: Twitter, Drivers/Conductors, IoT GPS devices
+
+🚀 Roadmap
+Phase 1 (MVP - 3–6 Months)
+Real-time BEST bus tracking in Mumbai
+
+Scrapers for local train schedules (CR/WR)
+
+Basic PWA with offline support
+
+Phase 2 (6–12 Months)
+Add Metro + Monorail support
+
+SMS/WhatsApp data entry integration
+
+Smart planner with ETA and delays
+
+Phase 3 (1+ Year)
+AI-based ETA prediction
+
+Ticketing system & Smart City API
+
+B2B dashboards and analytics
+
+
