@@ -89,7 +89,3 @@ Copy
 Edit
 
 ---
-
-✅ Just paste the entire content into your `README.md` file in VS Code or GitHub.
-
-Would you like this written into a file and zipped for upload?
